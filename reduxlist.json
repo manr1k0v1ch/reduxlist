@@ -1,22 +1,21 @@
-[
-  {
-    "name": "Redux Ultra",
-    "description": "Фотореалистичный Redux для GTA 5.",
-    "url": "https://site.com/redux_ultra.zip",
-    "images": [
-      "https://imgur.com/gallery/what-kind-of-beauty-mask-is-this-LlkjAnz",
-      "https://imgur.com/gallery/what-kind-of-beauty-mask-is-this-LlkjAnz",
-      "https://imgur.com/gallery/what-kind-of-beauty-mask-is-this-LlkjAnz"
-    ]
-  },
-  {
-    "name": "Redux Lite",
-    "description": "Фотореалистичный Redux Lite для GTA 5.",
-    "url": "https://site.com/redux_ultra.zip",
-    "images": [
-      "https://site.com/redux_ultra_1.jpg",
-      "https://site.com/redux_ultra_2.jpg",
-      "https://site.com/redux_ultra_3.jpg"
-    ]
-  }
-]
+{
+  "reduxes": [
+    {
+      "name": "Redux Ultra",
+      "description": "Фотореалистичный Redux для GTA V.",
+      "download_url": "https://example.com/redux-ultra.zip",
+      "images": [
+        "https://example.com/images/redux1.jpg",
+        "https://example.com/images/redux2.jpg"
+      ]
+    },
+    {
+      "name": "Redux Lite",
+      "description": "Облегчённый Redux для слабых ПК.",
+      "download_url": "https://example.com/redux-lite.zip",
+      "images": [
+        "https://example.com/images/redux-lite1.jpg"
+      ]
+    }
+  ]
+}
