@@ -4,6 +4,16 @@
     "description": "Фотореалистичный Redux для GTA 5.",
     "url": "https://site.com/redux_ultra.zip",
     "images": [
+      "https://imgur.com/gallery/what-kind-of-beauty-mask-is-this-LlkjAnz",
+      "https://imgur.com/gallery/what-kind-of-beauty-mask-is-this-LlkjAnz",
+      "https://imgur.com/gallery/what-kind-of-beauty-mask-is-this-LlkjAnz"
+    ]
+  },
+  {
+    "name": "Redux Lite",
+    "description": "Фотореалистичный Redux Lite для GTA 5.",
+    "url": "https://site.com/redux_ultra.zip",
+    "images": [
       "https://site.com/redux_ultra_1.jpg",
       "https://site.com/redux_ultra_2.jpg",
       "https://site.com/redux_ultra_3.jpg"
