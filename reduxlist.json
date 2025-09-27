@@ -1,14 +1,20 @@
 [
   {
-    "name": "Redux Ultra",
-    "description": "Фотореалистичный Redux с улучшенными эффектами.",
-    "video": "https://www.youtube.com/watch?v=18wbiPQ2XTg",
-    "download": "https://drive.google.com/uc?export=download&id=1y4BITbNgRAFpC0MGBVX2N8Lcrka4lKB8"
+    "name": "White redux",
+    "description": "Бело-черный редукс, для средних пк подойдет",
+    "video": "",
+    "download": "https://drive.google.com/uc?export=download&id=1DFx_U_q2HZp1YCTtZIHXHJbb73Du9f16"
   },
   {
-    "name": "Redux Lite",
-    "description": "Лёгкая версия для слабых ПК.",
+    "name": "Kiroki pl Effect 2 Taim Redux",
+    "description": "Неплохой редукс, для средних пк подойдет",
     "video": "https://www.youtube.com/watch?v=0O_IQCLjvzM",
-    "download": "https://drive.google.com/uc?export=download&id=1e8ntJNUru4_WtTEBFPIt48lch1AR5MJq"
+    "download": "https://drive.google.com/uc?export=download&id=1sLIgWBgP43oHZ6rJawhrI4lfrW8ksxsD"
+  },
+  {
+    "name": "Charms Summer Redux",
+    "description": "Редукс от Seringai",
+    "video": "https://youtu.be/sl7PMMS9KHA",
+    "download": "https://drive.google.com/uc?export=download&id=1_MHAgMZ4gyTECyfpwL_Fcp54ehGZtTtN"
   }
 ]
