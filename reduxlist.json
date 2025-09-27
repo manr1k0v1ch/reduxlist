@@ -1,23 +1,14 @@
-{
-  "reduxes": [
-    {
-      "name": "Redux Ultra",
-      "description": "Фотореалистичный Redux для GTA V.",
-      "download_url": "https://example.com/redux-ultra.zip",
-      "images": [
-        "https://i.imgur.com/bJ6r93E.png",
-        "https://i.imgur.com/GSMCJIl.png"
-      ]
-    },
-    {
-      "name": "Redux Lite",
-      "description": "Облегчённый Redux для слабых ПК.",
-      "download_url": "https://example.com/redux-lite.zip",
-      "images": [
-        "https://example.com/images/redux-lite1.jpg"
-      ]
-    }
-  ]
-}
-
-
+[
+  {
+    "name": "Redux Ultra",
+    "description": "Фотореалистичный Redux с улучшенными эффектами.",
+    "video": "https://www.youtube.com/watch?v=18wbiPQ2XTg",
+    "download": "https://drive.google.com/uc?export=download&id=1y4BITbNgRAFpC0MGBVX2N8Lcrka4lKB8"
+  },
+  {
+    "name": "Redux Lite",
+    "description": "Лёгкая версия для слабых ПК.",
+    "video": "https://www.youtube.com/watch?v=0O_IQCLjvzM",
+    "download": "https://drive.google.com/uc?export=download&id=1e8ntJNUru4_WtTEBFPIt48lch1AR5MJq"
+  }
+]
