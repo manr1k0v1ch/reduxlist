@@ -1,12 +1,12 @@
 [
   {
-    "Name": "D E P L O Y redux v1",
-    "Description": "Черно-белый редукс, хороший timecycle, регает все! Подойдет для слабых-средних ПК. Версия для GTA5RP",
+    "Name": "Sigma Star Redux",
+    "Description": "Черно-белый редукс, хороший timecycle. Подойдет для слабых-средних ПК. Версия для GTA5RP | Видео-обзор: https://youtu.be/O-kQq8Mbs9g",
     "ImageUrls": [
-      "https://i.imgur.com/MIP4jJz.png",
+      "https://youtu.be/O-kQq8Mbs9g",
       "https://i.imgur.com/e4F400n.png"
     ],
-    "DownloadUrl": "https://www.dropbox.com/scl/fi/led9a5joghspyf8iy1f1k/WHITE-REDUX.zip?rlkey=7cfet3c9m4h21ejdx044wzcbz&st=q7zqrl4n&dl=1"
+    "DownloadUrl": ""
   },
   {
     "Name": "WHITE REDUX",
@@ -21,6 +21,7 @@
     "DownloadUrl": "https://cdn.discordapp.com/attachments/1411379553602900019/1424112105061093519/test.zip?ex=68e2c340&is=68e171c0&hm=5691468cfbe9732f5f19c62c47b7868b2503ac1999ee10fc7a1f69348af21709&"
   }
 ]
+
 
 
 
