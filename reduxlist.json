@@ -2,7 +2,11 @@
   {
     "Name": "Redux Graphics",
     "Description": "Фотореалистичные эффекты для GTA V.",
-    "ImageUrl": "https://i.imgur.com/B1G60bZ.png",
+    "ImageUrls": [
+      "https://i.imgur.com/B1G60bZ.png",
+      "https://i.imgur.com/BqpFv2y.jpeg",
+      "https://i.imgur.com/xyz456.jpg"
+    ],
     "DownloadUrl": "https://example.com/redux1.zip"
   },
   {
@@ -12,4 +16,5 @@
     "DownloadUrl": "https://example.com/redux2.zip"
   }
 ]
+
 
