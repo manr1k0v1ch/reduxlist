@@ -12,16 +12,37 @@
   {
     "Name": "WHITE REDUX",
     "Description": "Бело-черный редукс, неплохой timecycle, минималистичный красивый. Версия для GTA5RP",
-    "ImageUrl": "https://i.imgur.com/e4F400n.png",
+    "ImageUrls": [
+      "https://i.imgur.com/zRe0vpG.png",
+      "https://i.imgur.com/p99ZGyc.png",
+      "https://i.imgur.com/VYvOpfn.png"
+    ],
     "DownloadUrl": "https://www.dropbox.com/scl/fi/led9a5joghspyf8iy1f1k/WHITE-REDUX.zip?rlkey=7cfet3c9m4h21ejdx044wzcbz&st=q7zqrl4n&dl=1"
   },
   {
-    "Name": "test",
-    "Description": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
-    "ImageUrl": "https://i.imgur.com/e4F400n.png",
+    "Name": "Charms Summer Redux",
+    "Description": "Неплохой редукс, красивые timecycle, ганпаки полупрозрачные темно-белые, подойдет для тех кто хочет новый редукс | Видео-обзор: https://youtu.be/sl7PMMS9KHA",
+    "ImageUrl": [ 
+      "https://i.imgur.com/qDRLYmO.png",
+      "https://i.imgur.com/cO4CSFa.png",
+      "https://i.imgur.com/Cazn9aO.png",
+      "https://i.imgur.com/ktqcxyr.png",
+      "https://i.imgur.com/4x6nUFl.png"
+    ],
+    "DownloadUrl": "https://cdn.discordapp.com/attachments/1411379553602900019/1424112105061093519/test.zip?ex=68e2c340&is=68e171c0&hm=5691468cfbe9732f5f19c62c47b7868b2503ac1999ee10fc7a1f69348af21709&"
+  },
+  {
+    "Name": "aewис v3",
+    "Description": "Нормальный редукс, timecycle навышем уровне | Видео-обзор: https://www.youtube.com/watch?v=x7laEHaB8bY",
+    "ImageUrl": [ 
+      "https://i.imgur.com/LInp2S8.png",
+      "https://i.imgur.com/YJfI228.png",
+      "https://i.imgur.com/BBHsDkh.png"
+    ],
     "DownloadUrl": "https://cdn.discordapp.com/attachments/1411379553602900019/1424112105061093519/test.zip?ex=68e2c340&is=68e171c0&hm=5691468cfbe9732f5f19c62c47b7868b2503ac1999ee10fc7a1f69348af21709&"
   }
 ]
+
 
 
 
