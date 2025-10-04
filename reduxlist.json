@@ -15,7 +15,7 @@
     "DownloadUrl": "https://example.com/redux2.zip"
   },
   {
-    "Name": "Redux Graphics",
+    "Name": "Redux Graphics1",
     "Description": "Фотореалистичные эффекты для GTA V.",
     "ImageUrls": [
       "https://i.imgur.com/B1G60bZ.png",
@@ -24,13 +24,13 @@
     "DownloadUrl": "https://example.com/redux1.zip"
   },
   {
-    "Name": "Redux Weapons",
+    "Name": "Redux Weapons1",
     "Description": "Новые текстуры и звуки оружия.",
     "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
     "DownloadUrl": "https://example.com/redux2.zip"
   },
   {
-    "Name": "Redux Graphics",
+    "Name": "Redux Graphics2",
     "Description": "Фотореалистичные эффекты для GTA V.",
     "ImageUrls": [
       "https://i.imgur.com/B1G60bZ.png",
@@ -39,13 +39,13 @@
     "DownloadUrl": "https://example.com/redux1.zip"
   },
   {
-    "Name": "Redux Weapons",
+    "Name": "Redux Weapons2",
     "Description": "Новые текстуры и звуки оружия.",
     "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
     "DownloadUrl": "https://example.com/redux2.zip"
   },
   {
-    "Name": "Redux Graphics",
+    "Name": "Redux Graphics3",
     "Description": "Фотореалистичные эффекты для GTA V.",
     "ImageUrls": [
       "https://i.imgur.com/B1G60bZ.png",
@@ -54,13 +54,13 @@
     "DownloadUrl": "https://example.com/redux1.zip"
   },
   {
-    "Name": "Redux Weapons",
+    "Name": "Redux Weapon3",
     "Description": "Новые текстуры и звуки оружия.",
     "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
     "DownloadUrl": "https://example.com/redux2.zip"
   },
   {
-    "Name": "Redux Graphics",
+    "Name": "Redux Graphics4",
     "Description": "Фотореалистичные эффекты для GTA V.",
     "ImageUrls": [
       "https://i.imgur.com/B1G60bZ.png",
@@ -69,12 +69,13 @@
     "DownloadUrl": "https://example.com/redux1.zip"
   },
   {
-    "Name": "Redux Weapons",
+    "Name": "Redux Weapons4",
     "Description": "Новые текстуры и звуки оружия.",
     "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
     "DownloadUrl": "https://example.com/redux2.zip"
   }
 ]
+
 
 
 
