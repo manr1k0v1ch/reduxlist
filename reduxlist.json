@@ -1,19 +1,14 @@
 [
   {
-    "name": "White Redux",
-    "description": "Улучшенный графический мод.",
-    "images": [
-      "https://i.imgur.com/abc123.png",
-      "https://i.imgur.com/def456.png"
-    ],
-    "downloadUrl": "https://github.com/yourrepo/releases/download/white-redux.zip"
+    "Name": "Redux Graphics",
+    "Description": "Фотореалистичные эффекты для GTA V.",
+    "ImageUrl": "https://example.com/redux1.png",
+    "DownloadUrl": "https://example.com/redux1.zip"
   },
   {
-    "name": "Dark Redux",
-    "description": "Атмосферный тёмный мод.",
-    "images": [
-      "https://i.imgur.com/ghi789.png"
-    ],
-    "downloadUrl": "https://github.com/yourrepo/releases/download/dark-redux.zip"
+    "Name": "Redux Weapons",
+    "Description": "Новые текстуры и звуки оружия.",
+    "ImageUrl": "https://example.com/redux2.png",
+    "DownloadUrl": "https://example.com/redux2.zip"
   }
 ]
