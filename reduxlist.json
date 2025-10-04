@@ -1,22 +1,19 @@
 [
   {
-    "name": "White redux",
-    "description": "Бело-черный редукс, для средних пк подойдет",
-    "video": "",
-    "download": "https://www.dropbox.com/scl/fi/led9a5joghspyf8iy1f1k/WHITE-REDUX.zip?rlkey=7cfet3c9m4h21ejdx044wzcbz&st=q7zqrl4n&dl=0"
+    "name": "White Redux",
+    "description": "Улучшенный графический мод.",
+    "images": [
+      "https://i.imgur.com/abc123.png",
+      "https://i.imgur.com/def456.png"
+    ],
+    "downloadUrl": "https://github.com/yourrepo/releases/download/white-redux.zip"
   },
   {
-    "name": "Kiroki pl Effect 2 Taim Redux",
-    "description": "Неплохой редукс, для средних пк подойдет",
-    "video": "https://www.youtube.com/watch?v=0O_IQCLjvzM",
-    "download": "https://drive.google.com/uc?export=download&id=1sLIgWBgP43oHZ6rJawhrI4lfrW8ksxsD"
-  },
-  {
-    "name": "Charms Summer Redux",
-    "description": "Редукс от Seringai",
-    "video": "https://youtu.be/sl7PMMS9KHA",
-    "download": "https://drive.google.com/uc?export=download&id=1_MHAgMZ4gyTECyfpwL_Fcp54ehGZtTtN"
+    "name": "Dark Redux",
+    "description": "Атмосферный тёмный мод.",
+    "images": [
+      "https://i.imgur.com/ghi789.png"
+    ],
+    "downloadUrl": "https://github.com/yourrepo/releases/download/dark-redux.zip"
   }
 ]
-
-
