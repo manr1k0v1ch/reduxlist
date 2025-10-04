@@ -4,8 +4,7 @@
     "Description": "Фотореалистичные эффекты для GTA V.",
     "ImageUrls": [
       "https://i.imgur.com/B1G60bZ.png",
-      "https://i.imgur.com/BqpFv2y.jpeg",
-      "https://i.imgur.com/xyz456.jpg"
+      "https://i.imgur.com/BqpFv2y.jpeg"
     ],
     "DownloadUrl": "https://example.com/redux1.zip"
   },
@@ -16,5 +15,6 @@
     "DownloadUrl": "https://example.com/redux2.zip"
   }
 ]
+
 
 
