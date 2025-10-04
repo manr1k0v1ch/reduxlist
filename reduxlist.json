@@ -13,8 +13,69 @@
     "Description": "Новые текстуры и звуки оружия.",
     "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
     "DownloadUrl": "https://example.com/redux2.zip"
+  },
+  {
+    "Name": "Redux Graphics",
+    "Description": "Фотореалистичные эффекты для GTA V.",
+    "ImageUrls": [
+      "https://i.imgur.com/B1G60bZ.png",
+      "https://i.imgur.com/BqpFv2y.jpeg"
+    ],
+    "DownloadUrl": "https://example.com/redux1.zip"
+  },
+  {
+    "Name": "Redux Weapons",
+    "Description": "Новые текстуры и звуки оружия.",
+    "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
+    "DownloadUrl": "https://example.com/redux2.zip"
+  },
+  {
+    "Name": "Redux Graphics",
+    "Description": "Фотореалистичные эффекты для GTA V.",
+    "ImageUrls": [
+      "https://i.imgur.com/B1G60bZ.png",
+      "https://i.imgur.com/BqpFv2y.jpeg"
+    ],
+    "DownloadUrl": "https://example.com/redux1.zip"
+  },
+  {
+    "Name": "Redux Weapons",
+    "Description": "Новые текстуры и звуки оружия.",
+    "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
+    "DownloadUrl": "https://example.com/redux2.zip"
+  },
+  {
+    "Name": "Redux Graphics",
+    "Description": "Фотореалистичные эффекты для GTA V.",
+    "ImageUrls": [
+      "https://i.imgur.com/B1G60bZ.png",
+      "https://i.imgur.com/BqpFv2y.jpeg"
+    ],
+    "DownloadUrl": "https://example.com/redux1.zip"
+  },
+  {
+    "Name": "Redux Weapons",
+    "Description": "Новые текстуры и звуки оружия.",
+    "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
+    "DownloadUrl": "https://example.com/redux2.zip"
+  },
+  {
+    "Name": "Redux Graphics",
+    "Description": "Фотореалистичные эффекты для GTA V.",
+    "ImageUrls": [
+      "https://i.imgur.com/B1G60bZ.png",
+      "https://i.imgur.com/BqpFv2y.jpeg"
+    ],
+    "DownloadUrl": "https://example.com/redux1.zip"
+  },
+  {
+    "Name": "Redux Weapons",
+    "Description": "Новые текстуры и звуки оружия.",
+    "ImageUrl": "https://i.imgur.com/BqpFv2y.jpeg",
+    "DownloadUrl": "https://example.com/redux2.zip"
   }
 ]
+
 
 
 
