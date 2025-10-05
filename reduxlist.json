@@ -1,15 +1,5 @@
 [
   {
-    "Name": "Sigma Star Redux",
-    "Description": "Черно-белый редукс, хороший timecycle. Подойдет для слабых-средних ПК. Версия для GTA5RP | Видео-обзор: https://youtu.be/O-kQq8Mbs9g",
-    "ImageUrls": [
-      "https://i.imgur.com/GPeAThs.png",
-      "https://i.imgur.com/cOdAXGy.png",
-      "https://i.imgur.com/0v3flST.png"
-    ],
-    "DownloadUrl": "https://youtube.com"
-  },
-  {
     "Name": "WHITE REDUX",
     "Description": "Бело-черный редукс, неплохой timecycle, минималистичный красивый. Версия для GTA5RP",
     "ImageUrls": [
@@ -18,18 +8,6 @@
       "https://i.imgur.com/VYvOpfn.png"
     ],
     "DownloadUrl": "https://edef11.pcloud.com/cfZnvyQ4UZRIaIDs7ZKUbBZZ4JM00kZ2ZZ86RZZnz86T7ZwpZwLZe0ZA8ZBRZGXZ4pZNpZEFZCzZd0Zo5ZnzZqHZ2PBFz8NvommW8JseSFlbHhqk0LV7/whiteredux.zip"
-  },
-  {
-    "Name": "Charms Summer Redux",
-    "Description": "Неплохой редукс, красивые timecycle, ганпаки полупрозрачные темно-белые, подойдет для тех кто хочет новый редукс | Видео-обзор: https://youtu.be/sl7PMMS9KHA",
-    "ImageUrls": [ 
-      "https://i.imgur.com/qDRLYmO.png",
-      "https://i.imgur.com/cO4CSFa.png",
-      "https://i.imgur.com/Cazn9aO.png",
-      "https://i.imgur.com/ktqcxyr.png",
-      "https://i.imgur.com/4x6nUFl.png"
-    ],
-    "DownloadUrl": "https://cdn.discordapp.com/attachments/1411379553602900019/1424112105061093519/test.zip?ex=68e2c340&is=68e171c0&hm=5691468cfbe9732f5f19c62c47b7868b2503ac1999ee10fc7a1f69348af21709&"
   },
   {
     "Name": "aewis v3",
@@ -47,16 +25,7 @@
     "ImageUrl": "https://i.imgur.com/cvZ4qlM.png",
     "DownloadUrl": "https://edef9.pcloud.com/cfZjApD4UZwGs81s7ZKUbBZZJTT00kZ2ZZ86RZZPKLgzZezZ48Z6HZEFZYFZ0zZb5ZWkZAHZfLZJ4Z6JZ98ZVFZoS1YTWNs667KzsM5SoPuQj4cBOL7/soundskillaclicky.zip"
   },
-  {
-    "Name": "ICY REDUX V6.0",
-    "Description": "Редукс от Айси Худтагера, приятный timecycle, изменёный радар. Версия для GTA5RP| Видео-обзор: https://www.youtube.com/watch?v=rPYy2BjrrO0",
-    "ImageUrls": [ 
-      "https://i.imgur.com/LInp2S8.png",
-      "https://i.imgur.com/YJfI228.png",
-      "https://i.imgur.com/BBHsDkh.png"
-    ],
-    "DownloadUrl": "https://cdn.discordapp.com/attachments/1411379553602900019/1424112105061093519/test.zip?ex=68e2c340&is=68e171c0&hm=5691468cfbe9732f5f19c62c47b7868b2503ac1999ee10fc7a1f69348af21709&"
-  },
 ]
+
 
 
