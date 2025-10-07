@@ -7,7 +7,9 @@
       "https://i.imgur.com/p99ZGyc.png",
       "https://i.imgur.com/VYvOpfn.png"
     ],
-    "DownloadUrl": "https://edef11.pcloud.com/cfZnvyQ4UZRIaIDs7ZKUbBZZ4JM00kZ2ZZ86RZZnz86T7ZwpZwLZe0ZA8ZBRZGXZ4pZNpZEFZCzZd0Zo5ZnzZqHZ2PBFz8NvommW8JseSFlbHhqk0LV7/whiteredux.zip"
+    "DownloadUrl": "https://edef11.pcloud.com/cfZnvyQ4UZRIaIDs7ZKUbBZZ4JM00kZ2ZZ86RZZnz86T7ZwpZwLZe0ZA8ZBRZGXZ4pZNpZEFZCzZd0Zo5ZnzZqHZ2PBFz8NvommW8JseSFlbHhqk0LV7/whiteredux.zip",
+    "IsTop": false,
+    "IsNew": false
   },
   {
     "Name": "aewis v3",
@@ -17,21 +19,28 @@
       "https://i.imgur.com/YJfI228.png",
       "https://i.imgur.com/BBHsDkh.png"
     ],
-    "DownloadUrl": "https://edef10.pcloud.com/cfZad8M4UZFg1u1s7ZKUbBZZAJg00kZ2ZZ86RZZ59okz7ZjFZOpZapZAHZXzZURZk5ZzVZB4ZxHZmHZXRZ7QZKFZKX9NE7FVnGYhtNLh9Qua8kVoqdLy/v2sumerki.zip"
+    "DownloadUrl": "https://edef10.pcloud.com/cfZad8M4UZFg1u1s7ZKUbBZZAJg00kZ2ZZ86RZZ59okz7ZjFZOpZapZAHZXzZURZk5ZzVZB4ZxHZmHZXRZ7QZKFZKX9NE7FVnGYhtNLh9Qua8kVoqdLy/v2sumerki.zip",
+    "IsTop": false,
+    "IsNew": false
   },
   {
     "Name": "Killa Clicky Gun Sounds",
     "Description": "Замена звука выстрелов для оружие | Видео-обзор: https://www.youtube.com/watch?v=-fKxEicaeRE",
     "ImageUrl": "https://i.imgur.com/cvZ4qlM.png",
-    "DownloadUrl": "https://github.com/manr1k0v1ch/reduxlist/releases/download/soundsgta5/soundskillaclicky.zip"
+    "DownloadUrl": "https://github.com/manr1k0v1ch/reduxlist/releases/download/soundsgta5/soundskillaclicky.zip",
+    "IsTop": false,
+    "IsNew": false
   },
   {
     "Name": "Test",
     "Description": "Test Description",
     "ImageUrl": "",
-    "DownloadUrl": ""
+    "DownloadUrl": "",
+    "IsTop": false,
+    "IsNew": false
   }
 ]
+
 
 
 
